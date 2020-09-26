@@ -1,0 +1,4 @@
+# add\_callback\_en
+
+!!! info "Callback parameters" **account\_amountconfirmations**number of confirmations \(confirmed blocks\) for orders with cryptocurrencies**ctime**transaction creation time \(timestamp\)**ftime**transaction finalizing time \(timestamp\)**in\_amount**credit currency amount**in\_curr**credit currency**in\_fee\_amount**fee amount in the credit currency**lid**cryptoaddress comment**out\_amount**cryptoaddress link**out\_curr**an address autoconvertation currency, if present**out\_fee\_amount**autorotation flag for cryptoaddress**payway\_name**payway name**status**actual \[cryptoaddress status\]\(\#status\_description\)**tp**URL address, where information about the address related operations will be automatically sent**txid**the required confirmation number for current cryptoaddress for transaction validation
+
